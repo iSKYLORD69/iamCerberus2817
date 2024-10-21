@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucky
 - 👀 I’m interested in ... Football , Coding , new languages , Games 
-- 🌱 I’m currently learning ... Full stack 
+- 🌱 I’m currently learning ... Python adv
 - 💞️ I’m looking to collaborate on ... Python projects 
 - 📫 How to reach me ... instagram - @lucky__.1.9
 - 😄 Pronouns: ... He/Him
